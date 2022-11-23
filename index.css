@@ -1,0 +1,24 @@
+.div1{
+  width: 50%;
+margin: 0;
+  float: left;
+}
+
+.div2{
+  width: 50%;
+margin: 0;
+  float: right;
+  padding: 0;
+
+}
+div{
+  margin:0;
+  display: inline-block;
+}
+
+h3{
+  margin: 0;
+  width: 50%;
+  align:left;
+
+}
